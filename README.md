@@ -12,4 +12,3 @@ I am Nalla Perumal.<br> I have completed both MCA and BCA at St. Xavier's Colleg
 ---
 [![](https://visitcount.itsvg.in/api?id=nallaperumal007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
