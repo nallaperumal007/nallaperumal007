@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Nalla Perumal.<br> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>I want to become FUll stack developer. <br>I'm in the process of learning Next.js and Django.
+<h1>I am Nalla Perumal.</h1><br> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>I want to become FUll stack developer. <br>I'm in the process of learning Next.js and Django.
 
 
 # 💻 Tech Stack:
