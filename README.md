@@ -1,27 +1,6 @@
 # 💫 About Me:
 
-<!-- Add your other content above -->
 
-<div class="message-wrapper">
-  <p class="message">Hi, I am Nahuel Carrizo</p>
-  <p class="message">I am 23 years old.</p>
-  <p class="message">I live in Argentina</p>
-  <!-- Add more messages here -->
-</div>
-
-<script>
-  const messages = document.querySelectorAll('.message');
-  let currentIndex = 0;
-
-  function showNextMessage() {
-    messages[currentIndex].style.display = 'none';
-    currentIndex = (currentIndex + 1) % messages.length;
-    messages[currentIndex].style.display = 'block';
-    setTimeout(showNextMessage, /* Set your desired time interval here */);
-  }
-
-  showNextMessage();
-</script>
 
 <h2>I am Nalla Perumal.</h2><br><h3>WhatsappNumber:9094077295</h3> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>I want to become FUll stack developer. <br>I'm in the process of learning Next.js and Django.
 
