@@ -4,7 +4,7 @@
 
 <h2>I am Nalla Perumal.</h2><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Django++developer+)](https://git.io/typing-svg)
+<h3>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Django++developer+)](https://git.io/typing-svg)</h3>
 
 
 
