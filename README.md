@@ -2,7 +2,15 @@
 
 
 
-<h2>I am Nalla Perumal.</h2><br><h3>WhatsappNumber:9094077295</h3> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>I want to become FUll stack developer. <br>I'm in the process of learning Next.js and Django.
+<h2>I am Nalla Perumal.</h2><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Django++developer+)](https://git.io/typing-svg)
+
+
+
+
+<h3>WhatsappNumber:9094077295</h3> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>
+ <br>I'm in the process of learning Django.
 
 
 # 💻 Tech Stack:
