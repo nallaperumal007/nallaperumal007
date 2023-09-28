@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Full+stack+developer+;Lamp+stack+developer;Mern+stack+developer+;Nextjs+developer+;Django++developer+)](https://git.io/typing-svg)
 
-<h2>Portfolio Website</h2>
+# Portfolio Website
 <a href="https://nallaperumal-portfolio.netlify.app/">Click</a>
 <h3>WhatsappNumber:9094077295</h3> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>
  <br>I'm in the process of learning Django.
