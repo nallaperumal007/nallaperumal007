@@ -4,7 +4,7 @@
 
 <h2>I am Nalla Perumal</h2><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Full+stack+developer+;Lamp+stack+developer;Mern+stack+developer+;Nextjs+developer+;Django++developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Django++developer+)](https://git.io/typing-svg)
 
 # Portfolio Website
 <a href="https://nallaperumal-portfolio.netlify.app/">Website</a>
