@@ -9,7 +9,7 @@
 # Portfolio Website
 <a href="https://nallaperumal-portfolio.netlify.app/">Website</a>
 <h3>WhatsappNumber:9094077295</h3> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>
- <br>I'm in the process of learning Django.
+ <br>I'm in the process of learning Next.js 
 
 
 # 💻 Tech Stack:
