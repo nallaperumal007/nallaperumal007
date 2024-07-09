@@ -4,7 +4,7 @@
 
 <h2>I am Nalla Perumal</h2><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Mean+stack+developer+;Mevn+stack+developer+;+LAMP+stack+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Php+Full+stack+developer+;Django+developer+;+Laravel+developer+)](https://git.io/typing-svg)
 # Experiences
 <h3>1.cspocket-4months</h3>
 <br><h3>2.Techo-3months</h3>
