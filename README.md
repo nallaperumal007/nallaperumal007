@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Mean+stack+developer+;Mevn+stack+developer+;+LAMP+stack+developer+)](https://git.io/typing-svg)
 # Experiences
-1.cspocket-4months
-2.Techo-3months
-3.Tech park-3months
+<h3>1.cspocket-4months</h3>
+<br><h3>2.Techo-3months</h3>
+<br><h3>3.Tech park-3months</h3>
 # Portfolio Website
 <a href="https://nallaperumal-portfolio.netlify.app/">Website</a>
 <h3>WhatsappNumber:9094077295</h3> I have completed both MCA and BCA at St. Xavier's College Palayamkottai. <br>
