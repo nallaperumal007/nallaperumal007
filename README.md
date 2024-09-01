@@ -7,9 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=FreeLancer+;Full+stack+developer+;Mern+stack+developer+;Nextjs+developer+;Php+Full+stack+developer+;Django+developer+;+Laravel+developer+)](https://git.io/typing-svg)
 # Experiences
-<h3>1.cspocket-4months</h3>
+<h3>1.cspocket-6months</h3>
 <br><h3>2.Techo-3months</h3>
-<br><h3>3.Tech park-3months</h3>
+<br><h3>3.Tech park-4months</h3>
 
 
 # Portfolio Website
