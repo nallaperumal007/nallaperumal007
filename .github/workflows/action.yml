@@ -1,19 +1,20 @@
 name: Daily Commit
 
 on:
-  schedule:    
-    - cron:  '0 0 * * *'      
-  workflow_dispatch:
-  
+  schedule:             
+    - cron: '0 0 * * *' 
+  workflow_dispatch:    
+
 jobs:
-  commit:    
+  commit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
       - name: Commit
         run: |
           git config --global user.email "nallaperumal342@gmail.com"
           git config --global user.name "nallaperumal007"
-          git commit --allow-empty -m "Actioner: Auto Commit",
+          git commit --allow-empty -m "Actioner: Auto Commit"
           git push
