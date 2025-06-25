@@ -6,9 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=FreeLancer+;Full+stack+developer+;Mern+stack+developer+)](https://git.io/typing-svg)
 # Experiences
-<h3>1.cspocket-1year</h3>
-<h3>2.Finari-5months</h3>
-<h3>3.Wintech-8months</h3>
+<h3>1.cspocket-2year</h3>
+
 
 
 # Portfolio Website
