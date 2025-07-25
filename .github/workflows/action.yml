@@ -1,9 +1,9 @@
 name: Daily Commit
 
 on:
-  schedule:             
-    - cron: '0 0 * * *' 
-  workflow_dispatch:    
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight
+  workflow_dispatch:
 
 jobs:
   commit:
@@ -18,3 +18,9 @@ jobs:
           git config --global user.name "nallaperumal007"
           git commit --allow-empty -m "Actioner: Auto Commit"
           git push
+        env:
+          GIT_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up push authentication
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
