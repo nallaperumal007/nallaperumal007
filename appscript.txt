@@ -1,0 +1,16 @@
+function doPost(e) {
+  if (!e || !e.parameter) {
+    return ContentService.createTextOutput("Missing data");
+  }
+
+  const sheet = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/19HXDhSd5vrWVE5vpOwpf0TtOrbZiH79M0RgRzWWxtxo/edit?gid=0#gid=0")
+    .getSheetByName("Sheet1");
+
+  const name = e.parameter.name;
+  const email = e.parameter.email;
+  const mobile = e.parameter.mobile;
+
+  sheet.appendRow([name, email, mobile]);
+
+  return ContentService.createTextOutput("Success");
+}
