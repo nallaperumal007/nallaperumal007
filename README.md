@@ -3,18 +3,10 @@
 <h2>I am Nalla Perumal</h2><br>
 
 
-<div align="center">
-
-
-<br>
-
-
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1200&width=1000&lines=Freelancer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Mobile+Developer;MERN+Stack;Laravel;Flutter;React+Native;Next.js;Angular)
 
-
-</div>
 
 # Experiences
 <h3>1.cspocket-2year</h3>
