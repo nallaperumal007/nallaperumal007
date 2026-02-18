@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 <h2>I am Nalla Perumal</h2><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&width=1000&lines=Freelancer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Mobile+Developer;MERN+Stack;Laravel;Flutter;React+Native;Next.js;Angular)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&width=900&lines=Freelancer+%7C+Full+Stack+Developer;Primary%3A+MERN+Stack;Secondary%3A+Laravel;Mobile%3A+Flutter+%26+React+Native;Frontend%3A+Angular)](https://git.io/typing-svg)
 
 # Experiences
 <h3>1.cspocket-2year</h3>
