@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&width=1000&lines=Freelancer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Mobile+Developer;MERN+Stack;Laravel;Flutter;React+Native;Next.js;Angular)](https://git.io/typing-svg)
 
 
+
 # Experiences
 <h3>1.cspocket-2year</h3>
 
