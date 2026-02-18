@@ -4,8 +4,7 @@
 
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=1000&lines=Freelancer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Mobile+Developer;MERN+Stack;Laravel;Flutter;React+Native;Next.js;Angular)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1200&width=1000&lines=Freelancer;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Mobile+Developer;MERN+Stack;Laravel;Flutter;React+Native;Next.js;Angular)
 
 </div>
 
