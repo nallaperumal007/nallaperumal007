@@ -2,8 +2,7 @@
 
 <h2>I am Nalla Perumal</h2><br>
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;Mobile+App+Developer;Next.js+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;Flutter+Developer;React+Native+Developer;Next.js+Developer;Angular+Developer)
 
 # Experiences
 <h3>1.cspocket-2year</h3>
