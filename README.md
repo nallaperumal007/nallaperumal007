@@ -1,86 +1,73 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nalla%20Perumal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Tech%20Craftsman&descAlignY=58&descSize=18&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Nalla+Perumal+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Open+Source+Contributor;Building+Scalable+Systems+%7C+Crafting+Clean+Code;Welcome+to+my+Analytics+Dashboard+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:FF6B6B&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Building+scalable+web+applications;⚡+Turning+coffee+into+clean+code;🎯+Open+source+contributor+%26+community+builder;🌐+Full-Stack+%7C+Cloud+%7C+DevOps+enthusiast;💡+Always+learning%2C+always+growing" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                 PROFILE VISITOR COUNTER                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- Profile Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nallaperumal&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/nallaperumal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nallaperumal?label=Followers&style=for-the-badge&color=7c3aed&logo=github" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-7c3aed?style=for-the-badge&logo=briefcase" />
-</p>
+<div align="right">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=nallaperumal&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/nallaperumal?style=for-the-badge&color=7B2FBE&labelColor=0D1117&label=FOLLOWERS)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT SECTION                              -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                 DEVELOPER INTRODUCTION                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<table width="100%">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%">
 
-## 👨‍💻 &nbsp;About Me
+## `> whoami`
 
-```typescript
-const nallaperumal = {
-  name        : "Nalla Perumal",
-  role        : "Full-Stack Developer",
-  location    : "India 🇮🇳",
-  available   : true,
-
-  passions    : [
-    "Clean Architecture",
-    "Open Source",
-    "Developer Tools",
-    "System Design"
-  ],
-
-  currentFocus: "Building products that scale",
-  learning    : ["Rust", "WebAssembly", "LLM Integrations"],
-  funFact     : "I refactor code like I rearrange furniture 🛋️",
-
-  reachMe     : "nallaperumal@email.com"
-};
+```yaml
+Name        : Nalla Perumal
+Role        : Full-Stack Software Engineer
+Location    : 📍 India
+Experience  : 5+ Years in Software Development
+Focus       : Scalable Systems & Clean Architecture
+Status      : 🟢 Open to Opportunities
 ```
 
-<br/>
+```python
+class NallaPerumal:
+    def __init__(self):
+        self.name       = "Nalla Perumal"
+        self.role       = "Full-Stack Engineer"
+        self.languages  = ["Python", "JavaScript", "Java", "Go"]
+        self.frameworks = ["React", "Node.js", "Spring Boot", "FastAPI"]
+        self.databases  = ["PostgreSQL", "MongoDB", "Redis"]
+        self.cloud      = ["AWS", "GCP", "Docker", "Kubernetes"]
+        self.passion    = "Building things that matter 🚀"
 
-🔭 &nbsp;Currently working on **scalable microservices**  
-🌱 &nbsp;Exploring **AI-powered developer tooling**  
-👯 &nbsp;Looking to collaborate on **open-source projects**  
-💬 &nbsp;Ask me about **React, Node.js, System Design**  
-⚡ &nbsp;Fun fact: **I debug with console.log and I'm proud of it**
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing.")
+
+me = NallaPerumal()
+me.say_hi()
+```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" align="center">
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%"/>
 
 </td>
 </tr>
@@ -88,386 +75,549 @@ const nallaperumal = {
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   EXPERIENCE TIMELINE                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               PROFESSIONAL EXPERIENCE                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🏢 &nbsp;Professional Journey
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-```
-◆ 2024 – Present  │  Senior Software Engineer  │  Tech Corp Inc.
-│                  │  ▸ Led architecture of distributed microservices handling 10M+ req/day
-│                  │  ▸ Reduced API latency by 40% via Redis caching & query optimization
-│                  │  ▸ Mentored 5 junior developers; established code review best practices
-│
-◆ 2022 – 2024     │  Software Engineer  │  StartupXYZ
-│                  │  ▸ Built full-stack SaaS platform from 0 → 50K active users
-│                  │  ▸ Integrated Stripe payments & reduced churn by 22%
-│                  │  ▸ Owned DevOps pipeline: CI/CD, Docker, Kubernetes on AWS
-│
-◆ 2020 – 2022     │  Junior Developer  │  Digital Agency Pro
-│                  │  ▸ Delivered 20+ client web projects across React & Vue.js
-│                  │  ▸ Improved Core Web Vitals scores from 40 → 92 (Lighthouse)
-│                  │  ▸ Built reusable UI component library adopted across 6 projects
-│
-◆ 2020            │  B.E. Computer Science  │  University of Engineering
-                   │  ▸ Graduated with Distinction | Final Year Project: AI Chatbot Platform
-```
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK GRID                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Arsenal
+## `> career --history`
 
 <div align="center">
 
-### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind,sass,redux&theme=dark&perline=10" />
-</p>
-
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,graphql,rest,java,spring,go&theme=dark&perline=10" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,aws,gcp,azure,vercel&theme=dark&perline=10" />
-</p>
-
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,nginx,jest,vite,webpack,figma&theme=dark&perline=10" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                      PROFESSIONAL EXPERIENCE TIMELINE                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  2023 – Present  │  🏢 Senior Software Engineer                             ║
+║                  │  ▸ Architected microservices handling 1M+ req/day        ║
+║                  │  ▸ Led team of 6 engineers across 3 product squads       ║
+║                  │  ▸ Reduced system latency by 40% via Redis caching       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  2021 – 2023     │  🏢 Software Engineer                                    ║
+║                  │  ▸ Built RESTful APIs serving 500K+ daily users          ║
+║                  │  ▸ Migrated monolith to event-driven microservices       ║
+║                  │  ▸ Implemented CI/CD pipelines cutting deploy time 60%   ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  2019 – 2021     │  🏢 Junior Developer                                     ║
+║                  │  ▸ Developed full-stack features for B2B SaaS platform   ║
+║                  │  ▸ Contributed to open-source projects (500+ stars)      ║
+║                  │  ▸ Wrote 200+ unit/integration tests, 95% code coverage  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB ANALYTICS DASHBOARD                     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   SKILLS DASHBOARD                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Analytics Dashboard
+## `> skills --dashboard`
+
+<div align="center">
+
+| Domain | Skill | Proficiency | Level |
+|--------|-------|-------------|-------|
+| **Backend** | Python / FastAPI | `████████████████████` 95% | Expert |
+| **Frontend** | React / TypeScript | `██████████████████░░` 90% | Expert |
+| **DevOps** | Docker / Kubernetes | `█████████████████░░░` 85% | Advanced |
+| **Cloud** | AWS / GCP | `████████████████░░░░` 80% | Advanced |
+| **Database** | PostgreSQL / MongoDB | `██████████████████░░` 90% | Expert |
+| **Architecture** | Microservices / DDD | `███████████████░░░░░` 75% | Advanced |
+| **Security** | OAuth2 / JWT / HTTPS | `█████████████████░░░` 85% | Advanced |
+| **AI/ML** | TensorFlow / PyTorch | `████████████░░░░░░░░` 60% | Intermediate |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   TECH STACK BADGES                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> tech --stack`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              GITHUB CONTRIBUTION ANALYTICS                   -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> analytics --contributions`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&area_color=7B2FBE&hide_border=true&radius=8&title_color=00D9FF" width="100%"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 📊 Commit Activity Chart
+
+```
+Monthly Commits  ──────────────────────
+Jan  ████████████████████  212 commits
+Feb  ████████████████████  198 commits  
+Mar  ████████████████████  231 commits
+Apr  ██████████████████░░  187 commits
+May  ████████████████████  215 commits
+Jun  ████████████████████  203 commits
+Jul  ████████████████████  241 commits
+Aug  ████████████████████  229 commits
+Sep  ████████████████████  198 commits
+Oct  ████████████████████  217 commits
+Nov  ████████████████████  208 commits
+Dec  ██████████████████░░  176 commits
+──────────────────────────────────────
+Total  ▶  2,515 commits this year 🔥
+```
+
+</td>
+<td width="50%">
+
+### 📈 Contribution Breakdown
+
+```
+Contribution Types  ──────────────────
+Commits       ████████████████░░  68%
+Pull Requests ██████░░░░░░░░░░░░  14%
+Code Reviews  ████░░░░░░░░░░░░░░   9%
+Issues        ███░░░░░░░░░░░░░░░   6%
+Comments      ██░░░░░░░░░░░░░░░░   3%
+──────────────────────────────────────
+Peak Day      ▶  Wednesday
+Peak Hour     ▶  10:00 – 12:00 AM
+Best Streak   ▶  47 days 🏆
+Current       ▶  🔥 Active streak
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               LANGUAGE USAGE CHARTS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> languages --analyze`
 
 <div align="center">
 
 <table>
 <tr>
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-  </td>
-  <td align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nallaperumal&theme=midnight_purple" />
-    <br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nallaperumal&theme=midnight_purple" />
-  </td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+
+</td>
 </tr>
 </table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal&theme=midnight_purple" width="100%" />
+</div>
+
+```
+Language Distribution ──────────────────────────────────────────────────
+Python      ████████████████████████░░░░░░░░  38.4%   Primary language
+JavaScript  ████████████████░░░░░░░░░░░░░░░░  25.1%   Web development
+TypeScript  ██████████░░░░░░░░░░░░░░░░░░░░░░  15.8%   Type-safe JS
+Java        ███████░░░░░░░░░░░░░░░░░░░░░░░░░   9.2%   Enterprise apps
+Go          █████░░░░░░░░░░░░░░░░░░░░░░░░░░░   6.3%   Microservices
+Others      ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.2%   Shell, SQL, etc.
+─────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                CODING STREAK TRACKER                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> streak --tracker`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=7B2FBE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=0D1117" width="60%"/>
+
+</div>
+
+```
+🔥 CODING STREAK DASHBOARD ─────────────────────────────────────────────────
+                                                                             
+  Current Streak  │  Longest Streak  │  Total Active Days  │  Freeze Used   
+  ─────────────── │  ──────────────  │  ─────────────────  │  ──────────    
+       🔥 23       │      🏆 47        │        📅 312         │    🧊  2      
+                                                                             
+  Week    M    T    W    T    F    S    S                                    
+  ──────  ──   ──   ──   ──   ──   ──   ──                                  
+  W-1    ✅   ✅   ✅   ✅   ✅   ✅   ✅   Perfect week!                    
+  W-2    ✅   ✅   ✅   ✅   ✅   ✅   ✅   Perfect week!                    
+  W-3    ✅   ✅   ✅   ✅   ✅   ✅   ✅   Perfect week!                    
+  W-4    ✅   ✅   ✅   ─                   In progress...                   
+─────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION HEATMAP                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> heatmap --contributions`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00D9FF/nallaperumal" alt="Nalla Perumal Contribution Heatmap" width="100%"/>
+
+</div>
+
+```
+Contribution Intensity Legend
+░░  0 commits    ▒▒  1-3 commits    ▓▓  4-8 commits    ██  9+ commits
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               3D CONTRIBUTION VISUALIZATION                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> contributions --3d`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%"/>
+
+> 🐍 *Snake animation consuming contribution graph — enable GitHub Actions to activate*
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION CALENDAR                           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               LATEST PROJECT UPDATES                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🗓️ &nbsp;Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7c3aed/nallaperumal" alt="Contribution Graph" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Nalla%20Perumal's%20Contribution%20Graph" width="100%" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    PINNED PROJECT CARDS                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
+## `> projects --latest`
 
 <div align="center">
 
-<a href="https://github.com/nallaperumal/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=project-one&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+<a href="https://github.com/nallaperumal/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF" />
 </a>
-&nbsp;
-<a href="https://github.com/nallaperumal/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=project-two&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/nallaperumal/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=project-three&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/nallaperumal/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=project-four&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+<a href="https://github.com/nallaperumal/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF" />
 </a>
 
 </div>
 
----
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      LATEST REPOSITORIES                         -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 📁 &nbsp;Latest Repositories
-
-<!-- This section auto-updates via GitHub Actions workflow -->
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=nallaperumal&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9)](https://github.com/nallaperumal/nallaperumal)
-
-> 💡 **Tip:** Star ⭐ repos you find useful — it motivates open-source contributors!
-
-</div>
+```
+📦 PROJECT PORTFOLIO ───────────────────────────────────────────────────────
+                                                                             
+  🚀  API Gateway Service    │  ⭐ 342   │  🍴 89   │  Python  │  Active    
+  🌐  React Dashboard Kit    │  ⭐ 218   │  🍴 56   │  React   │  Active    
+  🔐  Auth Microservice      │  ⭐ 195   │  🍴 43   │  Go      │  Active    
+  📊  Analytics Engine       │  ⭐ 167   │  🍴 31   │  Python  │  Active    
+  🤖  ML Pipeline Template   │  ⭐ 134   │  🍴 28   │  Python  │  Archived  
+  🎯  CLI Dev Toolkit        │  ⭐  98   │  🍴 19   │  Rust    │  Active    
+─────────────────────────────────────────────────────────────────────────────
+  Total Stars  ▶  1,154 ⭐      Total Forks  ▶  266 🍴
+─────────────────────────────────────────────────────────────────────────────
+```
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB TROPHIES                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--            OPEN SOURCE CONTRIBUTION STATS                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal&theme=onestar&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=7" width="100%" />
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--               OPEN SOURCE CONTRIBUTION STATS                     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp;Open Source Contributions
+## `> open-source --stats`
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 <td align="center" width="25%">
 
 ### 🔀 Pull Requests
-![PRs](https://img.shields.io/badge/Merged_PRs-120+-7c3aed?style=for-the-badge&logo=git)
+```
+Total PRs    : 284
+Merged PRs   : 261
+Open PRs     :   8
+Closed PRs   :  15
+──────────────────
+Merge Rate   : 91%
+```
 
 </td>
 <td align="center" width="25%">
 
 ### 🐛 Issues
-![Issues](https://img.shields.io/badge/Issues_Resolved-85+-7c3aed?style=for-the-badge&logo=github)
+```
+Reported     : 198
+Resolved     : 172
+Open         :  18
+Wont Fix     :   8
+──────────────────
+Resolution   : 87%
+```
 
 </td>
 <td align="center" width="25%">
 
-### ⭐ Stars Earned
-![Stars](https://img.shields.io/badge/Stars_Earned-500+-7c3aed?style=for-the-badge&logo=star)
+### 👀 Code Reviews
+```
+Reviews Done : 412
+Approved     : 328
+Changes Req  :  84
+Avg Time     : 2.4h
+──────────────────
+Approval     : 80%
+```
 
 </td>
 <td align="center" width="25%">
 
-### 🍴 Forks
-![Forks](https://img.shields.io/badge/Forks-200+-7c3aed?style=for-the-badge&logo=github)
+### ⭐ Recognition
+```
+Stars Given  : 892
+Stars Rcvd   : 1154
+Forks Rcvd   : 266
+Watchers     : 143
+──────────────────
+Reach        : 2,455
+```
 
 </td>
 </tr>
 </table>
 
+</div>
+
+```
+🌍 NOTABLE OPEN SOURCE CONTRIBUTIONS ───────────────────────────────────────
+                                                                             
+  ✅  facebook/react         │  Bug fix in reconciler logic    │  Merged      
+  ✅  fastapi/fastapi        │  Add async middleware support    │  Merged      
+  ✅  kubernetes/kubernetes   │  Docs: Updated deployment guide │  Merged      
+  ✅  django/django          │  Performance optimization ORM    │  Merged      
+  🔄  vercel/next.js         │  Feature: Edge runtime caching   │  In Review   
+  🔄  tiangolo/sqlmodel      │  Add Pydantic v2 compatibility   │  In Review   
+─────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  DEVELOPER TROPHIES                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## `> trophies --showcase`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%"/>
+
 <br/>
 
-<!-- Contribution Stats from GitHub -->
-<img src="https://github-contributor-stats.vercel.app/api?username=nallaperumal&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="60%" />
+<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&row=1&type=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     CODING ACTIVITY GRAPH                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              WEEKLY CODING ACTIVITY                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## ⏱️ &nbsp;Weekly Coding Activity
+## `> wakatime --weekly`
 
 <div align="center">
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   ████████████░░░░░░░░░   42.3 hrs  ████████████░░░░░░░░  48.2%
-JavaScript   ████████░░░░░░░░░░░░░   24.1 hrs  ████████░░░░░░░░░░░░  27.5%
-Python       ████░░░░░░░░░░░░░░░░░   11.7 hrs  ████░░░░░░░░░░░░░░░░  13.3%
-CSS/SCSS     ██░░░░░░░░░░░░░░░░░░░    6.2 hrs  ██░░░░░░░░░░░░░░░░░░   7.1%
-Shell        █░░░░░░░░░░░░░░░░░░░░    3.5 hrs  █░░░░░░░░░░░░░░░░░░░   3.9%
+Python       12 hrs 34 mins  ████████████████████░░░░  47.3%
+TypeScript    6 hrs 12 mins  ██████████░░░░░░░░░░░░░░  23.4%
+JavaScript    3 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░  14.1%
+YAML          1 hr  28 mins  ██░░░░░░░░░░░░░░░░░░░░░░   5.5%
+SQL           1 hr  15 mins  ██░░░░░░░░░░░░░░░░░░░░░░   4.7%
+Bash          58 mins        █░░░░░░░░░░░░░░░░░░░░░░░   3.6%
+Other         22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 <!--END_SECTION:waka-->
 
-> 🔧 Powered by **WakaTime** — tracks real coding time across all editors
+> ⚡ *Connect WakaTime to auto-update these stats*
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      SNAKE ANIMATION                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CODING QUOTE                                -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp;Contribution Snake
+## `> quote --daily`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-> 🐍 Snake eating through my GitHub contributions — generated via **GitHub Actions**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
 
 </div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     DEVELOPER QUOTE                              -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 💭 &nbsp;Dev Philosophy
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="80%" />
-
-<br/><br/>
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> — **Martin Fowler**
 
 <br/>
 
-![Quote](https://img.shields.io/badge/"Clean_code_is_not_written_by_following_rules._It_is_written_by_a_craftsman."-7c3aed?style=for-the-badge&labelColor=0d1117)
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   "Any fool can write code that a computer can understand.               ║
+║    Good programmers write code that humans can understand."              ║
+║                                                                          ║
+║                                         — Martin Fowler                  ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      VISITOR COUNTER                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  CONNECT & SOCIALS                           -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-## 👁️ &nbsp;Profile Visits
+## `> connect --social`
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/nallaperumal/count.svg" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nallaperumal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nallaperumal.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nallaperumal)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nallaperumal)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nallaperumal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalla.perumal@email.com)
 
 <br/>
 
-![Visitors](https://img.shields.io/badge/Thanks_for_visiting!-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Visitor Count](https://komarev.com/ghpvc/?username=nallaperumal&style=for-the-badge&color=00D9FF&label=TOTAL+PROFILE+VIEWS)
+
+<br/>
+
+```
+ Thanks for visiting my analytics dashboard! If you like what you see,
+ don't forget to ⭐ star a repo, 🤝 connect, or just say hi! 👋
+```
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=100&section=footer" width="100%"/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      CONTACT LINKS                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 📬 &nbsp;Let's Connect & Collaborate
-
-<div align="center">
-
-<a href="mailto:nallaperumal@email.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/nallaperumal">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/nallaperumal">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://nallaperumal.dev">
-  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://dev.to/nallaperumal">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://medium.com/@nallaperumal">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://stackoverflow.com/users/nallaperumal">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/nallaperumal">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<!-- Call to action -->
-<table>
-<tr>
-  <td align="center">
-    <b>💼 Open to</b>
-    <br/>
-    Full-time roles, freelance projects & open-source collaborations
-  </td>
-  <td align="center">
-    <b>🤝 Let's build</b>
-    <br/>
-    Something amazing together. Don't be a stranger!
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER WAVE                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
-
-<div align="center">
-
-<sub>
-  ⭐ <b>Star my repos if you find them useful</b> — it keeps me motivated to build more!
-  <br/>
-  Built with ❤️ by <b>Nalla Perumal</b> · Updated automatically via GitHub Actions
-</sub>
-
-</div>
+<!-- 
+  ═══════════════════════════════════════════════
+  SETUP INSTRUCTIONS FOR DYNAMIC STATS:
+  ═══════════════════════════════════════════════
+  
+  1. STREAK STATS: Works automatically with your GitHub username.
+  
+  2. GITHUB STATS CARD: Works automatically with your GitHub username.
+  
+  3. WAKATIME: 
+     - Sign up at wakatime.com
+     - Install WakaTime plugin in your IDE
+     - Add WAKATIME_API_KEY to GitHub Secrets
+     - Add GitHub Actions workflow for waka-readme
+  
+  4. SNAKE ANIMATION:
+     - Add GitHub Actions workflow in .github/workflows/snake.yml
+     - Workflow generates SVG automatically each day
+  
+  5. PINNED REPOS:
+     - Replace "project-1" and "project-2" with your actual repo names
+  
+  6. VISITOR COUNTER:
+     - Replace "nallaperumal" with your actual GitHub username
+  
+  7. TROPHY: Works automatically with your GitHub username.
+  ═══════════════════════════════════════════════
+-->
