@@ -1,608 +1,447 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                 NALLA PERUMAL · GITHUB PROFILE README · 2026                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  1. ANIMATED GRADIENT HEADER                                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:388bfd,100:58a6ff&height=300&section=header&text=Nalla%20Perumal&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=58a6ff&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20Building%20Tomorrow's%20Web%20Today&descAlignY=62&descSize=18&descFontColor=8b949e" />
+<!-- ============================================================ -->
+<!--                    ANIMATED BANNER                           -->
+<!-- ============================================================ -->
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Nalla%20Perumal&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Cloud%20Architect&descAlignY=58&descColor=c9d1d9&animation=fadeIn" />
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  2. TYPING ANIMATION                                                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
+<!-- ============================================================ -->
+<!--                   TYPING ANIMATION                           -->
+<!-- ============================================================ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&height=50&lines=🚀+Full+Stack+Developer+%7C+2.8%2B+Years+Experience;⚛️+MERN+Stack+Engineer+%7C+React+%26+Next.js+Expert;🐘+Laravel+%26+PHP+Backend+Specialist;📱+Flutter+%26+React+Native+Mobile+Developer;🔺+Angular+%7C+TypeScript+%7C+REST+APIs;🌱+Currently+Mastering+Next.js+15+%26+Cloud+☁️;🤝+Open+to+Freelance+%26+Full-Time+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=🚀+Building+Scalable+Systems+%26+Architectures;⚡+Full+Stack+Engineer+%7C+12%2B+Years+Experience;☁️+Cloud+Native+%7C+Microservices+%7C+DevOps;🤖+AI%2FML+Integration+Specialist;🌍+Open+Source+Contributor+%26+Tech+Leader" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  3. PROFILE VISITORS COUNTER + LIVE BADGES                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                    PROFILE BADGES                            -->
+<!-- ============================================================ -->
 
-<a href="https://github.com/nallaperumal007">
-  <img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=Profile+Views&color=1f6feb&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-</a>
-&nbsp;
-<a href="https://github.com/nallaperumal007?tab=followers">
-  <img src="https://img.shields.io/github/followers/nallaperumal007?label=Followers&style=for-the-badge&color=238636&labelColor=161b22" alt="Followers" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=public_repos&label=Public+Repos&color=8957e5&style=for-the-badge&labelColor=161b22" alt="Repos" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Work%20✓-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
-&nbsp;
-<img src="https://img.shields.io/badge/BCA-St.%20Xavier's%20College-f78166?style=for-the-badge&logo=academia&logoColor=white" alt="Education" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nallaperumal&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/nallaperumal?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/nallaperumal?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00ff88?style=for-the-badge&labelColor=0d1117" alt="Open to Work" />
+</p>
 
-<br/><br/>
+<br/>
 
-<!-- Quick Links -->
-<a href="https://nallaperumal.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-nallaperumal.vercel.app-0969da?style=flat-square&labelColor=161b22" />
-</a>
-&nbsp;
-<a href="https://wa.me/919094077295">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-+91%209094077295-25D366?style=flat-square&labelColor=161b22" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/nallaperumal">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-nallaperumal-0A66C2?style=flat-square&labelColor=161b22" />
-</a>
-&nbsp;
-<a href="mailto:nallaperumal@email.com">
-  <img src="https://img.shields.io/badge/📧_Email-Reach%20Me-EA4335?style=flat-square&labelColor=161b22" />
-</a>
+<!-- ============================================================ -->
+<!--                    SOCIAL LINKS                              -->
+<!-- ============================================================ -->
+
+<p>
+  <a href="https://linkedin.com/in/nallaperumal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/nallaperumal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:nalla.perumal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://nallaperumal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/nallaperumal" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@nallaperumal" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  4. PROFESSIONAL ABOUT ME                                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                     ABOUT ME SECTION                         -->
+<!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+### 💫 About Me
 
 ```typescript
-/**
- * @name     Nalla Perumal
- * @role     Full Stack Developer
- * @location Tamil Nadu, India 🇮🇳
- * @status   Open to Work ✅
- */
+const nallaperumal: Developer = {
+  name:        "Nalla Perumal",
+  role:        "Senior Software Engineer",
+  location:    "🌏 India",
+  experience:  "12+ Years",
 
-const developer: Profile = {
-  name:       "Nalla Perumal",
-  education:  "BCA · St. Xavier's College, Palayamkottai",
-  experience: "2.8+ Years | 2 Companies | 10+ Projects",
+  expertise: [
+    "Full Stack Development",
+    "Cloud Architecture",
+    "Microservices & Distributed Systems",
+    "AI/ML Integration",
+    "DevOps & Platform Engineering",
+  ],
 
-  expertise: {
-    frontend:  ["React", "Next.js 15", "Angular", "TypeScript"],
-    backend:   ["Node.js", "Express.js", "Laravel", "PHP"],
-    mobile:    ["Flutter", "React Native"],
-    database:  ["MongoDB", "MySQL", "Firebase", "Redis"],
-    devops:    ["Vercel", "Netlify", "Heroku", "Oracle Cloud"],
-    tools:     ["Git", "Postman", "VS Code", "Linux", "Figma"],
-  },
+  currentFocus: [
+    "Building fault-tolerant distributed systems",
+    "LLM-powered application development",
+    "Open source contributions",
+    "Mentoring junior engineers",
+  ],
 
-  currentlyLearning: ["Next.js 15", "AWS", "Docker", "System Design"],
-  openTo:    ["Freelance", "Full-Time", "Open Source", "Mentorship"],
-
-  contact: {
-    portfolio:  "nallaperumal.vercel.app",
-    whatsapp:   "+91 9094077295",
-    linkedin:   "linkedin.com/in/nallaperumal",
-  },
-
-  funFact: () => "☕ + 💡 + ⌨️ => 🚀 | Bugs are just hidden features 😄",
+  funFact: "I debug with console.log and I'm not sorry 🔥",
 };
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-
-<br/><br/>
-
-<table align="center">
-  <tr><td>🔭</td><td>Building production-grade web & mobile apps</td></tr>
-  <tr><td>🌱</td><td>Mastering <b>Next.js 15</b>, AWS & Docker</td></tr>
-  <tr><td>⚡</td><td><b>2,157+</b> GitHub contributions & counting</td></tr>
-  <tr><td>🎓</td><td>BCA Graduate — St. Xavier's College</td></tr>
-  <tr><td>💼</td><td>Ex-CSPocket (2yr) · Ex-IndieSpirit (10mo)</td></tr>
-  <tr><td>🌍</td><td>Tamil Nadu, India · Remote Worldwide</td></tr>
-  <tr><td>📞</td><td>WhatsApp: +91 9094077295</td></tr>
-</table>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  5. ANIMATED TECH STACK WITH ICONS                                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                  DEVELOPER EXPERIENCE TIMELINE               -->
+<!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Stack
+## 🚀 Career Timeline
 
-<div align="center">
-
-### 🖥️ Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,dart,python,java,cpp,cs,html,css&theme=dark&perline=10" alt="Languages" />
-</p>
-
-### ⚛️ Frontend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,tailwind,bootstrap,materialui,jquery,webpack,vite&theme=dark&perline=10" alt="Frontend" />
-</p>
-
-### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&theme=dark&perline=10" alt="Mobile" />
-</p>
-
-### 🔧 Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,graphql,nginx,apache&theme=dark&perline=10" alt="Backend" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis,sqlite&theme=dark&perline=10" alt="Databases" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws,docker,linux,nginx&theme=dark&perline=10" alt="Cloud" />
-</p>
-
-### 🛠️ Tools & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva,babel,npm,yarn&theme=dark&perline=10" alt="Tools" />
-</p>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  6. GITHUB STATS DASHBOARD                                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Stats Dashboard
-
-<div align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e&ring_color=8957e5&border_radius=12&custom_title=Nalla's+GitHub+Stats" />
-&nbsp;
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  8. TOP LANGUAGES CHART                                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal007&layout=donut&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12&custom_title=Most+Used+Languages&hide=css" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  7. GITHUB STREAK STATS                                                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img width="72%" src="https://streak-stats.demolab.com?user=nallaperumal007&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=12&type=svg&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  9. 3D CONTRIBUTION GRAPH                                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/nallaperumal007">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/gist/nallaperumal007" alt="3D Contribution Graph" width="100%" />
-</a>
-
-> ⚡ **Setup 3D Graph:** Go to [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) → Create a Gist ID → Add the GitHub Action → It auto-renders your 3D contribution graph every day!
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  10. GITHUB ACTIVITY GRAPH                                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 📈 Activity Graph — Auto Updates Daily
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f78166&area=true&hide_border=true&area_color=0d2d6b&custom_title=Nalla+Perumal+—+Contribution+Activity+Graph&radius=8&height=280" alt="Activity Graph" />
-
-</div>
-
----
-
-<!-- Profile Summary Cards — Full Deep Dive -->
-## 📊 Contribution Deep Dive
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark" />
-
-<br/>
-
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nallaperumal007&theme=github_dark" />
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nallaperumal007&theme=github_dark" />
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal007&theme=github_dark" />
-<img width="24.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal007&theme=github_dark&utcOffset=+5.5" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  11. CONTRIBUTION SNAKE ANIMATION                                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 🐍 Contribution Snake — Live Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake — auto-updates daily" src="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<details>
-<summary><b>⚙️ Enable Snake — One-time Setup (Click to Expand)</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your `nallaperumal007` profile repo:
-
-```yaml
-name: 🐍 Generate Contribution Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"      # Runs every day at midnight UTC
-  workflow_dispatch:           # Allows manual trigger from Actions tab
-  push:
-    branches: [main]
-
-jobs:
-  generate-snake:
-    name: Generate Snake Animation
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+2024 ─── Present  │  🏆 Principal Engineer · Architecting next-gen cloud-native platforms
+2022 ─── 2024     │  ⚡ Senior Software Engineer · Led team of 20, delivered 3 major products
+2020 ─── 2022     │  🔧 Software Engineer III · Microservices migration, 99.99% uptime
+2018 ─── 2020     │  💡 Software Engineer II · Full-stack feature ownership & delivery
+2015 ─── 2018     │  🌱 Software Engineer I · Grew from intern to core team contributor
+2013 ─── 2015     │  🎓 Computer Science Graduate · IIT Madras · Gold Medalist
 ```
 
-**Steps:** `Actions` tab → `Enable Workflows` → Click `Run workflow` → ✅ Done!
+---
 
-</details>
+<!-- ============================================================ -->
+<!--                    3D CONTRIBUTION GRAPH                     -->
+<!-- ============================================================ -->
 
+## 📊 3D Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=nallaperumal&theme=nord_dark" width="100%" alt="3D Contribution Graph" />
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  12. LATEST GITHUB REPOSITORIES                                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                   GITHUB ANALYTICS DASHBOARD                 -->
+<!-- ============================================================ -->
 
-## 📦 Latest Repositories
+## 📈 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nallaperumal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&stroke=00d4ff" width="70%" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                   CONTRIBUTION SNAKE                         -->
+<!-- ============================================================ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/nallaperumal/nallaperumal/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+> **Note:** To generate the snake animation, add this GitHub Action to your repo:
+> `.github/workflows/snake.yml` → uses `Platane/snk@v3`
+
+---
+
+<!-- ============================================================ -->
+<!--                     ACTIVITY GRAPH                           -->
+<!-- ============================================================ -->
+
+## 📅 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&theme=react-dark" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                    GITHUB TROPHIES                           -->
+<!-- ============================================================ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nallaperumal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                      TECH STACK ICONS                        -->
+<!-- ============================================================ -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,cpp,kotlin,swift,bash&theme=dark" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,sass,html,css,figma&theme=dark" />
+</p>
+
+### ⚙️ Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,spring,express,graphql,nestjs,flask,rails,gin&theme=dark" />
+</p>
+
+### 🗄️ Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,cassandra,sqlite,dynamodb,supabase,firebase&theme=dark" />
+</p>
+
+### ☁️ Cloud Platforms
+
+<div>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</div>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel&theme=dark" />
+</p>
+
+### 🔧 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible,prometheus,grafana,nginx,linux&theme=dark" />
+</p>
+
+### 🤖 AI / ML Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00d4ff" />
+</p>
+
+---
+
+<!-- ============================================================ -->
+<!--                   PINNED REPOSITORIES                        -->
+<!-- ============================================================ -->
+
+## 📌 Featured Projects
 
 <div align="center">
 
-<!-- Replace repo names with your actual repo names -->
-<a href="https://github.com/nallaperumal007?tab=repositories&sort=updated">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal007&repo=Foodweb&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e&border_radius=12" />
-</a>
-<a href="https://github.com/nallaperumal007?tab=repositories&sort=updated">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal007&repo=nallaperumal007&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=8b949e&border_radius=12" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=cloud-native-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/nallaperumal/cloud-native-platform)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=ai-powered-api-gateway&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/nallaperumal/ai-powered-api-gateway)
 
-<br/><br/>
-
-<!-- Dynamic: always shows your most recently updated repos -->
-<a href="https://github.com/nallaperumal007?tab=repositories&sort=updated">
-  <img src="https://img.shields.io/badge/📂_View_All_Repositories-Click_Here-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=58a6ff" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=microservices-toolkit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/nallaperumal/microservices-toolkit)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nallaperumal&repo=devops-automation-suite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/nallaperumal/devops-automation-suite)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  13. FEATURED PROJECTS                                                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                   LATEST REPOSITORIES                        -->
+<!-- ============================================================ -->
 
-## 🚀 Featured Projects
+## 🆕 Latest Repositories
 
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Platform
-![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-Full-stack e-commerce with cart, payments, admin dashboard, and real-time inventory management.
-
-`Progress: ████████░░ 80%` 🟡 Active
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Task Manager App
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Riverpod](https://img.shields.io/badge/Riverpod-00B0FF?style=flat-square)
-
-Cross-platform task manager with real-time sync, push notifications, offline mode, and team collaboration.
-
-`Progress: ██████░░░░ 60%` 🟢 Active
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍕 Food Delivery Web App
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-Full-stack food ordering system with restaurant management, real-time order tracking, and payment gateway.
-
-`Progress: ██████████ 100%` ✅ Deployed
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio v3.0
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-
-3D animated personal portfolio with particle effects, GSAP animations, dark/light mode, and CMS integration.
-
-`Progress: ████░░░░░░ 40%` 🟡 Building
-
-</td>
-</tr>
-</table>
-
-</div>
+| Repository | Tech | Stars | Status |
+|:-----------|:-----|:-----:|:------:|
+| 🏗️ [cloud-native-platform](https://github.com/nallaperumal) | `Kubernetes` `Terraform` `Go` | ⭐ 342 | 🟢 Active |
+| 🤖 [ai-powered-api-gateway](https://github.com/nallaperumal) | `Python` `FastAPI` `LangChain` | ⭐ 289 | 🟢 Active |
+| ⚙️ [microservices-toolkit](https://github.com/nallaperumal) | `TypeScript` `Node.js` `Docker` | ⭐ 215 | 🟢 Active |
+| 🚀 [devops-automation-suite](https://github.com/nallaperumal) | `Ansible` `Python` `Bash` | ⭐ 178 | 🟡 Maintenance |
+| 🎯 [react-performance-kit](https://github.com/nallaperumal) | `React` `TypeScript` `Webpack` | ⭐ 134 | 🟢 Active |
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  14. GITHUB TROPHY ACHIEVEMENTS                                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                  CODING PHILOSOPHY QUOTE                     -->
+<!-- ============================================================ -->
 
-## 🏆 GitHub Trophy Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
-
-</div>
-
----
-
-<!-- Skill Proficiency + Career + Currently Learning all in one row -->
-
-## 🎯 Skill Proficiency
-
-<div align="center">
-
-| Technology | Level | Proficiency |
-|:---|:---:|:---|
-| ⚛️ React / Next.js | `★ Expert` | `████████████████████░` 95% |
-| 🟢 Node.js / Express | `★ Expert` | `██████████████████░░░` 88% |
-| 🐘 Laravel / PHP | `★ Expert` | `██████████████████░░░` 87% |
-| 🍃 MongoDB / MySQL | `★ Expert` | `██████████████████░░░` 88% |
-| 📱 Flutter / Dart | `✦ Advanced` | `████████████████░░░░░` 80% |
-| 🔷 TypeScript | `✦ Advanced` | `███████████████░░░░░░` 78% |
-| 📲 React Native | `✦ Advanced` | `██████████████░░░░░░░` 75% |
-| 🔺 Angular | `◆ Mid` | `█████████████░░░░░░░░` 65% |
-| ☁️ AWS / Docker | `◇ Learning` | `████████░░░░░░░░░░░░░` 40% |
-
-</div>
-
----
-
-## 💼 Work Experience
+## 💬 Engineering Philosophy
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    PROFESSIONAL TIMELINE                            │
-│                                                                     │
-│  🎓 BCA Graduate    💼 CSPocket          💼 IndieSpirit    🎯 Now  │
-│       │                  │                    │              │      │
-│   ────●──────────────────●────────────────────●──────────────●────  │
-│     2021              2021–2023            2023–2024       2026     │
-│                      (2 Years)            (10 Months)              │
-└─────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "Any fool can write code that a computer can understand.       ║
+║    Good programmers write code that humans can understand."      ║
+║                                          — Martin Fowler         ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   "First, solve the problem. Then, write the code."              ║
+║                                          — John Johnson          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-#### 🏢 CSPocket &nbsp; `2 Years`
-![](https://img.shields.io/badge/Full%20Stack%20Developer-Completed-238636?style=flat-square&labelColor=161b22)
+<!-- ============================================================ -->
+<!--                 CURRENT FOCUS / WIP                          -->
+<!-- ============================================================ -->
 
-- 🔧 Architected **5+ production web applications** end-to-end
-- ⚡ Built high-performance **REST APIs** (Node.js + Express) for 10k+ users
-- ⚛️ Developed **React + Redux** dashboards with 40% perf improvement
-- 🗃️ Designed scalable schemas — **MongoDB & MySQL**
-- 🔐 Implemented **JWT + RBAC** across all platforms
-- 👥 Led Agile sprints, consistent on-time delivery
+## 🔭 Currently Working On
 
-`React` `Node.js` `MongoDB` `MySQL` `Express` `Redux`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏢 IndieSpirit &nbsp; `10 Months`
-![](https://img.shields.io/badge/Developer-Completed-8957e5?style=flat-square&labelColor=161b22)
-
-- 🐘 Built **MVC backends** in Laravel & PHP with clean architecture
-- 📱 Shipped **Flutter apps** for iOS + Android from one codebase
-- 🔥 Integrated **Firebase Realtime DB** with < 100ms sync
-- 🎨 Implemented pixel-perfect UI from **Figma** to code
-- 🔐 Built **OAuth2 + role-based** security systems
-- 💡 Launched **3 MVPs** from ideation → production
-
-`Laravel` `Flutter` `Firebase` `PHP` `MySQL` `Vue.js`
-
-</td>
-</tr>
-</table>
+```mermaid
+mindmap
+  root((Nalla Perumal))
+    Cloud Architecture
+      Multi-cloud Strategy
+      Serverless Platforms
+      FinOps Optimization
+    AI Integration
+      LLM Applications
+      RAG Systems
+      Vector Databases
+    Open Source
+      SDK Development
+      CLI Tools
+      Developer Tooling
+    Leadership
+      Team Mentoring
+      Tech Talks
+      Blog Writing
+```
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  15. DEVELOPER QUOTE SECTION                                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--             PORTFOLIO / CONTACT LINKS                        -->
+<!-- ============================================================ -->
 
-## 💬 Developer Quote — Refreshes Every Visit
+## 🌐 Portfolio & Links
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%" alt="Dev Quote" />
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=false&bgColor=0d1117&borderColor=1f6feb&textColor=ffffff&qColor=58a6ff&aColor=8957e5" alt="Random Dev Joke — New every visit!" />
-
-<br/><br/>
-
-<!-- Motivational dynamic badge -->
-<img src="https://img.shields.io/badge/💡_Daily_Reminder-Clean_code_is_written_for_humans,_not_machines-58a6ff?style=for-the-badge&labelColor=0d1117" />
+| 🔗 Platform | 🌍 Link |
+|:------------|:--------|
+| 💼 Portfolio | [nallaperumal.dev](https://nallaperumal.dev) |
+| 📝 Blog | [dev.to/nallaperumal](https://dev.to/nallaperumal) |
+| 📚 Medium | [medium.com/@nallaperumal](https://medium.com/@nallaperumal) |
+| 🎤 Talks | [speakerdeck.com/nallaperumal](https://speakerdeck.com/nallaperumal) |
+| 🏅 HackerRank | [hackerrank.com/nallaperumal](https://hackerrank.com/nallaperumal) |
+| 🧩 LeetCode | [leetcode.com/nallaperumal](https://leetcode.com/nallaperumal) |
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  16. SOCIAL LINKS WITH ICONS                                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                  CERTIFICATIONS BADGES                       -->
+<!-- ============================================================ -->
 
-## 🤝 Connect With Me
+## 🎓 Certifications
 
 <div align="center">
 
-<a href="https://nallaperumal.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-nallaperumal.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
-<br/><br/>
-<a href="https://wa.me/919094077295">
-  <img src="https://img.shields.io/badge/WhatsApp-+91%209094077295-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
+<img src="https://img.shields.io/badge/AWS_Solutions_Architect-Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 &nbsp;
-<a href="https://linkedin.com/in/nallaperumal">
-  <img src="https://img.shields.io/badge/LinkedIn-nallaperumal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
+<img src="https://img.shields.io/badge/Google_Cloud-Professional_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 &nbsp;
-<a href="https://github.com/nallaperumal007">
-  <img src="https://img.shields.io/badge/GitHub-nallaperumal007-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
+<img src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 &nbsp;
-<a href="mailto:nallaperumal@email.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="38"/>
-</a>
+<img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Azure-Solutions_Architect-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
-<br/><br/>
+</div>
 
-### 🤝 What I'm Open To
+---
 
-| 💼 Freelance | 🏢 Full-Time | 🌍 Open Source | 👨‍🏫 Mentorship |
-|:---:|:---:|:---:|:---:|
-| Web & Mobile Apps | Frontend / Backend | PRs & Features | Happy to Guide |
-| MVP Development | Full Stack Roles | Bug Fixes | Junior Devs |
-| API Integrations | Remote Friendly | New Projects | DM Anytime |
+<!-- ============================================================ -->
+<!--                GITHUB METRICS / MISC STATS                   -->
+<!-- ============================================================ -->
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+| 📊 Metric | 🔢 Value |
+|:----------|:---------|
+| 💻 Lines of Code Written | `2,500,000+` |
+| 🚀 Projects Shipped | `150+` |
+| ☕ Cups of Coffee | `∞` |
+| 🐛 Bugs Squashed | `10,000+` |
+| 📖 PRs Reviewed | `3,500+` |
+| 🌍 Countries Worked With | `12` |
+| 🏆 Hackathons Won | `8` |
+| 👥 Developers Mentored | `50+` |
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                    ANIMATED FOOTER                           -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Let's+Build+Something+Amazing+Together!&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=twinkling" width="100%" />
 
 <br/>
 
-> 📍 **Tamil Nadu, India** &nbsp;·&nbsp; 🌏 **Open to Remote Worldwide** &nbsp;·&nbsp; ⚡ **Fast Responder**
-
-</div>
-
----
-
-<!-- Dynamic Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nallaperumal007/count.svg" alt="Visitor Count" />
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  17. FOOTER WAVE ANIMATION                                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,25:388bfd,50:1f6feb,75:161b22,100:0d1117&height=200&section=footer&text=Thanks%20for%20Visiting!%20⭐%20Star%20My%20Repos!&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=85&descSize=14&descFontColor=8b949e" />
+**⭐ If you found my work valuable, consider starring my repositories!**
 
 <br/>
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20by%20Nalla%20Perumal-e05d44?style=flat-square&labelColor=0d1117)
-![Updated](https://img.shields.io/badge/Updated-March%202026-58a6ff?style=flat-square&labelColor=0d1117)
-![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-FF9933?style=flat-square&labelColor=0d1117)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕%20Coffee-6f4e37?style=flat-square&labelColor=0d1117)
-![Open Source](https://img.shields.io/badge/Open-Source%20❤️-2ea44f?style=flat-square&labelColor=0d1117)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=8b949e&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!+👋;Feel+free+to+connect+and+collaborate!;Open+to+interesting+projects+%26+opportunities." />
+
+<br/>
+
+*Made with ❤️ by Nalla Perumal · Updated automatically*
 
 </div>
