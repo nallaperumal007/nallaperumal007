@@ -1,52 +1,44 @@
-<!-- ================= 3D HEADER ================= -->
+<!-- ================== ANIMATED HEADER ================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:0077FF,100:001F3F&text=Nalla%20Perumal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Laravel%20|%20Mobile%20Apps&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F7FF,50:0077FF,100:001F3F&text=Nalla%20Perumal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Laravel%20|%20Mobile%20Apps&descAlignY=60"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ================== TYPING ANIMATION ================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&duration=2500&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Backend+Developer;Next.js+Frontend+Developer;Flutter+Mobile+App+Developer;GSAP+Animation+Specialist;Building+Scalable+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+Backend+Developer;Next.js+Frontend+Developer;Flutter+Mobile+Developer;Building+Scalable+Applications"/>
 </p>
 
 ---
 
-# 👨‍💻 Developer Profile
+# 👨‍💻 About Me
 
 Hi 👋 I'm **Nalla Perumal**
 
-🚀 Full Stack Developer focused on building scalable digital platforms.
+A passionate **Full Stack Developer** focused on building modern digital platforms.
 
-I specialize in:
+I work with:
 
-• MERN Stack Applications
-• Laravel Enterprise Platforms
-• Next.js SEO Websites
-• Flutter Mobile Apps
-• API Architecture & System Design
-
----
-
-# ⚡ 3D Developer Animation
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650">
-</p>
+• React.js / Next.js
+• Node.js / Express
+• Laravel Backend
+• Flutter & React Native
+• MySQL / MongoDB
 
 ---
 
-# 🧠 Technology Stack
+# 🧠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,laravel,flutter,angular,spring,mongodb,mysql,redis,docker,kubernetes,firebase,vercel,git,github,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,laravel,flutter,angular,spring,mongodb,mysql,docker,redis,firebase,vercel,git,github,vscode&perline=9"/>
 
 </p>
 
 ---
 
-# 📊 Real-Time GitHub Metrics
+# 📊 GitHub Profile Statistics
 
 <p align="center">
 
@@ -62,13 +54,13 @@ I specialize in:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nallaperumal&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=nallaperumal&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🧬 Contribution Activity Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -78,7 +70,17 @@ I specialize in:
 
 ---
 
-# 🧠 Repository Language Analysis
+# 📊 Repository Insights Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Language Usage Analytics
 
 <p align="center">
 
@@ -90,31 +92,33 @@ I specialize in:
 
 ---
 
-# 📊 Advanced Developer Dashboard
+# 📊 Commit & Activity Analysis
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 🌍 Developer Activity Globe
-
-<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🧬 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📊 Developer Metrics Dashboard
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/nallaperumal?template=classic&base.header=0&languages=1&repositories=1&isocalendar=1&activity=1"/>
 
 </p>
 
@@ -124,31 +128,19 @@ I specialize in:
 
 ### CRM Platform
 
-A full enterprise CRM system with lead management, analytics dashboard, and API integrations.
+A full CRM platform for managing leads, analytics dashboards, and automation workflows.
 
 ### Hospital Management System
 
-Complete hospital workflow including patient registration, appointment booking, and billing.
+Complete system for patient registration, appointments, billing, and medical records.
 
-### Task Tracker
+### Task Management Platform
 
-Role-based task assignment system with admin and member dashboards.
+Role-based task assignment system with admin dashboards and productivity tracking.
 
-### Animated GSAP Website
+### GSAP Animated Website
 
-High-end animation based marketing website using React + GSAP.
-
----
-
-# 📈 Coding Activity Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal&theme=tokyonight"/>
-
-</p>
+Interactive animated marketing website built using React and GSAP.
 
 ---
 
@@ -192,24 +184,12 @@ High-end animation based marketing website using React + GSAP.
 
 ---
 
-# 🎯 Current Learning Roadmap
+# 🚀 Current Learning
 
-Currently exploring:
-
-• Angular Advanced Architecture
-• Spring Boot Backend Systems
-• Microservices & Distributed Systems
-• System Design for Scalable Platforms
-
----
-
-# ⚡ Fun Developer Facts
-
-💡 I love building **GSAP animated websites**
-
-💡 I enjoy designing **large scale backend systems**
-
-💡 I continuously explore **modern frameworks**
+• Angular Advanced Concepts
+• Spring Boot Backend Development
+• Microservices Architecture
+• System Design
 
 ---
 
