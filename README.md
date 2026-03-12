@@ -1,40 +1,83 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">Hi 👋, I'm Nalla Perumal</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Laravel | Mobile App Developer</h3>
+<!-- ================= HERO BANNER ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;Flutter+Developer;React+Native+Developer;Next.js+Developer;Angular+Developer;Spring+Boot+Learner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=220&section=header&text=Nalla%20Perumal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Laravel%20|%20Mobile%20Developer&descAlignY=60&descAlign=50"/>
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+Developer;Next.js+Developer;Flutter+Developer;React+Native+Developer;Angular+Learner;Spring+Boot+Learner"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-👨‍💻 I'm **Nalla Perumal**
-🎓 Completed **BCA – St. Xavier's College, Palayamkottai**
-💼 **3+ Years Experience** in Web & Mobile Development
-🌱 Currently Learning **Flutter, React Native, Angular & Spring Boot**
-🚀 Passionate about building **Scalable Web Applications & Mobile Apps**
+👋 Hi, I'm **Nalla Perumal**
 
-📱 WhatsApp: **+91 9094077295**
-🌐 Portfolio:
-👉 https://nallaperumal.vercel.app/
+🎓 **BCA Graduate – St. Xavier's College, Palayamkottai**
+
+💼 **3+ Years Experience** in Web & Mobile Development
+
+🚀 I specialize in building:
+
+• MERN Stack Applications
+• Laravel Web Systems
+• Next.js Applications
+• Mobile Apps (Flutter / React Native)
+
+🌱 Currently learning
+
+• Angular
+• Spring Boot
+• Advanced System Design
 
 ---
 
-# 🧑‍💻 Work Experience
+# 🧑‍💻 Professional Experience
 
 🏢 **CSPocket** — 2 Years
 🏢 **IndieSpirit** — 10 Months
 
-Worked on:
+### Built Systems Like
 
 ✔ ERP Systems
 ✔ CRM Platforms
 ✔ Hospital Management Systems
 ✔ Booking Systems
 ✔ Animated Websites (GSAP)
+✔ API based Applications
+✔ Dashboard & Analytics Systems
+
+---
+
+# 🚀 Featured Projects
+
+### MERN Stack
+
+• CRM System
+• Task Management System
+• Booking System
+• Admin Dashboard
+
+### Laravel
+
+• Blog REST API
+• Hospital Management System
+• CRM System
+• Lead Management System
+
+### Next.js
+
+• Modern Portfolio Websites
+• Animated UI Websites
+• SEO Optimized Business Sites
+
+### Mobile Apps
+
+📱 Flutter Personal Projects
+📱 React Native Apps
 
 ---
 
@@ -43,15 +86,15 @@ Worked on:
 <p align="center">
 
 <a href="https://nallaperumal.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 <a href="mailto:nallaperumal.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://wa.me/919094077295">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
 </a>
 
 </p>
@@ -60,57 +103,21 @@ Worked on:
 
 # 🧠 Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,laravel,flutter,react,angular,spring,mongodb,mysql,firebase,vercel,git,github,vscode&perline=8" />
+
+</p>
 
 ---
 
-### ⚡ Frameworks
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge\&logo=springboot)
-
----
-
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
-![React Native](https://img.shields.io/badge/ReactNative-black?style=for-the-badge\&logo=react)
-
----
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-
----
-
-### ☁ Hosting / Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge\&logo=firebase)
-![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge\&logo=netlify)
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -119,15 +126,39 @@ Worked on:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=nallaperumal&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=nallaperumal&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -138,8 +169,18 @@ Worked on:
 
 ---
 
-# 🚀 Visitor Count
+# 🚀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nallaperumal&label=Profile%20views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=nallaperumal&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I love building **animated websites using GSAP**
+💡 I enjoy developing **scalable backend systems**
+💡 I constantly explore **new frameworks and technologies**
