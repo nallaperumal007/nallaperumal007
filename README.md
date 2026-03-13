@@ -11,28 +11,31 @@
 <br/>
 
 <!-- Real-time Badges -->
+<!-- ================= BADGES ================= -->
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=Profile%20Views&color=0f3460&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=👁️+Profile+Views&color=0f3460&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/nallaperumal007?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/nallaperumal007?label=👥+Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/github/stars/nallaperumal007?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/nallaperumal007?label=⭐+Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=📦+Public+Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
 
 </p>
 
-<!-- Real-time Badges Row 2 -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_gists&label=📝+Public+Gists&style=for-the-badge&color=7c3aed&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Experience-5%2B+Years-00d4ff?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open+to+Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-India+🇮🇳-ff6b35?style=for-the-badge&labelColor=0d1117"/>
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_gists&label=📝+Public+Gists&style=for-the-badge&color=7c3aed&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/💼+Experience-3%2B+Years-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/🚀+Status-Open+to+Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/🌍+Location-India-ff6b35?style=for-the-badge&labelColor=0d1117"/>
+
+</p>
 
 ---
 
