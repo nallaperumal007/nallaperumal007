@@ -15,7 +15,7 @@
 # 👨‍💻 Developer Profile
 
 Hello 👋  
-I'm **Nalla Perumal**
+I'm **Nalla Perumal**  
 
 🚀 **Full Stack Developer with 3+ years experience**  
 
@@ -39,10 +39,25 @@ I specialize in **enterprise applications, scalable systems, and cross-platform 
 
 ---
 
-# 🧑‍💻 Developer Coding Animation
+# 📊 Real-Time Repo Analytics
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
+
+<!-- Laravel Repos -->
+<img src="https://img.shields.io/github/languages/top/nallaperumal007/laravel?color=FF2D20&label=Laravel%20Repos&style=for-the-badge"/>
+
+<!-- React Repos -->
+<img src="https://img.shields.io/github/languages/top/nallaperumal007/react?color=61DAFB&label=React%20Repos&style=for-the-badge"/>
+
+<!-- Next.js Repos -->
+<img src="https://img.shields.io/github/languages/top/nallaperumal007/nextjs?color=000000&label=Next.js%20Repos&style=for-the-badge"/>
+
+<!-- Flutter Repos -->
+<img src="https://img.shields.io/github/languages/top/nallaperumal007/flutter?color=02569B&label=Flutter%20Repos&style=for-the-badge"/>
+
+<!-- React Native Repos -->
+<img src="https://img.shields.io/github/languages/top/nallaperumal007/react-native?color=61DAFB&label=React%20Native%20Repos&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -55,7 +70,7 @@ I specialize in **enterprise applications, scalable systems, and cross-platform 
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Stats & Charts
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -64,52 +79,10 @@ I specialize in **enterprise applications, scalable systems, and cross-platform 
 
 ---
 
-# 🔥 GitHub Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=nallaperumal007&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&theme=react-dark&area=true"/>
-</p>
-
----
-
-# 📊 Developer Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nallaperumal007&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nallaperumal007&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal007&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal007&theme=tokyonight"/>
-</p>
-
----
-
-# 📊 Full Developer Metrics
-
-<p align="center">
-<img src="https://metrics.lecoq.io/nallaperumal007?template=classic&languages=1&repositories=1&isocalendar=1&activity=1&achievements=1&stars=1"/>
-</p>
-
----
-
-# 🌆 Contribution Skyline
+# 🌆 Contribution Skyline & Snake
 
 <p align="center">
 <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/demo/skyline.svg"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
@@ -117,21 +90,34 @@ I specialize in **enterprise applications, scalable systems, and cross-platform 
 
 # 🚀 Featured Projects
 
-### 🔹 CRM Platform
-Enterprise CRM platform with lead tracking, analytics dashboards, and automation.
-
-### 🔹 Hospital Management System
-Complete hospital management system including patient registration, doctor scheduling, and billing.
-
-### 🔹 Task Tracker
-Role-based task assignment system with admin dashboards.
-
-### 🔹 GSAP Animated Website
-Interactive marketing website with React + GSAP animations.
-
-### 🔹 Courier ERP System
-Logistics management, shipment tracking, and admin dashboards.
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| CRM Platform | Laravel, React | Enterprise CRM platform with lead tracking and dashboards |
+| Hospital Management | Laravel, React, Flutter | Patient registration, doctor scheduling, billing |
+| Task Tracker | MERN | Role-based task management system |
+| GSAP Animated Website | React, GSAP | Interactive marketing website |
+| Courier ERP System | MERN, Laravel | Logistics & shipment tracking |
 
 ---
 
-# 🧠 Languages I Use
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:nallaperumal.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/919094077295">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://github.com/nallaperumal007">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> “Code is not just written — it is engineered.”
