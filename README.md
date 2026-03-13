@@ -39,9 +39,38 @@
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,angular,typescript,express,mysql,mongodb,prisma,spring,flutter,react&theme=dark&perline=6" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/prisma/prisma-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="60"/>
 </p>
 
+## 🌆 3D Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark)
+
+
+
+## 💻 Skill Progress
+
+React ████████████████████ 95%
+
+NodeJS ██████████████████ 90%
+
+Angular ███████████████ 85%
+
+Spring Boot ██████████████ 80%
+
+Flutter ███████████████ 85%
+
+MongoDB █████████████████ 90%
 <div align="center">
 
 ## 🔴 LIVE — GitHub Real-Time Dashboard
