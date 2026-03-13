@@ -5,9 +5,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+%2F+PHP+Backend+Expert;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Flutter+Mobile+Developer;Docker+%2F+DevOps+Enthusiast;275%2B+Public+Repositories" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;MEAN+Stack+Developer;Laravel+%2F+PHP+Backend+Expert;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Flutter+Mobile+App+Developer;React+Native+Mobile+Developer;Mobile+App+Developer;300%2B+Public+Repositories;Open+Source+Contributor;Always+Learning+New+Technologies;Keep+Learning+%26+Growing;Hard+Worker+%26+Problem+Solver;Building+Scalable+Applications;Passionate+About+Coding" />
 </p>
-
 <br/>
 
 
