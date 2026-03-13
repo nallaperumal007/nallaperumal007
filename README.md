@@ -68,6 +68,14 @@
 
 > 🕐 *Stats auto-refresh every 24h via GitHub's live API*
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=nallaperumal007&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&theme=tokyo-night"/>
+
 </div>
 
 <div align="center">
