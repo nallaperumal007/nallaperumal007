@@ -102,13 +102,13 @@
 
 ---
 
-<div align="center">
+<p align="center">
 
-## 🏆 GitHub Trophies — Live Rankings
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 
-</div>
+</p>
 
 ---
 
