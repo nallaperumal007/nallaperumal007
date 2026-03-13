@@ -4,20 +4,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=A.%20NALLA%20PERUMAL&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20275%2B%20Repositories%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=55&lines=🚀+Full+Stack+Developer;⚛️+MERN+Stack+Engineer;🔴+Laravel+%2F+PHP+Backend+Expert;☕+Spring+Boot+Java+Developer;▲+Next.js+%2F+React+Frontend+Engineer;📱+Flutter+Mobile+Developer;🐳+Docker+%2F+DevOps+Enthusiast;🌐+275%2B+Public+Repositories" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Laravel+%2F+PHP+Backend+Expert;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Flutter+Mobile+Developer;Docker+%2F+DevOps+Enthusiast;275%2B+Public+Repositories" />
+</p>
 
-<br/><br/>
+<br/>
 
-<!-- Real-time Badges Row 1 -->
-<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=👁️+Profile+Views&color=0f3460&style=for-the-badge&abbreviated=true"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/nallaperumal007?label=👥+Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/nallaperumal007?label=⭐+Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117&affiliations=OWNER"/>
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=📦+Public+Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<!-- Real-time Badges -->
+<p align="center">
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=Profile%20Views&color=0f3460&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/nallaperumal007?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/github/stars/nallaperumal007?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+
+</p>
 
 <!-- Real-time Badges Row 2 -->
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_gists&label=📝+Public+Gists&style=for-the-badge&color=7c3aed&labelColor=0d1117"/>
