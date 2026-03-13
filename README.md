@@ -101,15 +101,13 @@
 </div>
 
 ---
-
-<p align="center">
+<div align="center">
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7" />
 
-</p>
-
+</div>
 ---
 
 <div align="center">
