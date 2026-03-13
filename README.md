@@ -99,16 +99,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&bg_color=0d1117&color=00d4ff&line=0f3460&point=00d4ff&area_color=00d4ff&area=true&hide_border=true&custom_title=Nalla+Perumal's+Contribution+Graph+(Live)" width="100%"/>
 
 </div>
+<p align="center">
 
----
-<div align="center">
+## 🏆 GitHub Achievements
 
-## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nallaperumal007&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
----
+</p>
 
 <div align="center">
 
