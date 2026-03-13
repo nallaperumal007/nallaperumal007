@@ -116,7 +116,23 @@
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nallaperumal007&theme=github_dark"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal007&theme=github_dark"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal007&theme=github_dark&utcOffset=5.5"/>
+<h3 align="center">🔥 Most Used Frameworks</h3>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN%20Stack-Expert-00C853?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/MEAN%20Stack-Intermediate-DD0031?style=for-the-badge&logo=angular"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Intermediate-6DB33F?style=for-the-badge&logo=springboot"/>
+
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter"/>
+
+</p>
 </div>
 
 ---
