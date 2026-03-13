@@ -15,29 +15,30 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=👁️+Profile+Views&color=0f3460&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=0f3460&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/nallaperumal007?label=👥+Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/nallaperumal007?label=%F0%9F%91%A5%20Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/github/stars/nallaperumal007?label=⭐+Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/nallaperumal007?label=%E2%AD%90%20Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=📦+Public+Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=%F0%9F%93%A6%20Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_gists&label=📝+Public+Gists&style=for-the-badge&color=7c3aed&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_gists&label=%F0%9F%93%9D%20Public%20Gists&style=for-the-badge&color=7c3aed&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/badge/💼+Experience-3%2B+Years-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Experience-3%2B%20Years-00d4ff?style=for-the-badge&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/badge/🚀+Status-Open+to+Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Status-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
 
-<img src="https://img.shields.io/badge/🌍+Location-India-ff6b35?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Location-India-ff6b35?style=for-the-badge&labelColor=0d1117"/>
 
 </p>
 
----
+
+
 
 <div align="center">
 
