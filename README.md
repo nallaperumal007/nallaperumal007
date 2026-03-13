@@ -171,19 +171,16 @@
 
 ---
 
-<div align="center">
+# 🐍 Contribution Snake Animation
 
-## 🐍 Live Contribution Snake
+<p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
-</div>
+</p>
 
 ---
+
 
 <div align="center">
 
