@@ -36,41 +36,32 @@
 <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Location-India-ff6b35?style=for-the-badge&labelColor=0d1117"/>
 
 </p>
-<h2 align="center">🚀 Tech Stack</h2>
-
-<p align="center">
-<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/prisma/prisma-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="60"/>
-</p>
 
 ## 🌆 3D Contribution Graph
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark)
 
 
+<h2 align="center">💻 Skill Progress</h2>
 
-## 💻 Skill Progress
+<p align="center">
 
-React ████████████████████ 95%
+<img src="https://img.shields.io/badge/MERN%20Stack-90%25-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-NodeJS ██████████████████ 90%
+<img src="https://img.shields.io/badge/Laravel%20%2F%20PHP-90%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
-Angular ███████████████ 85%
+<img src="https://img.shields.io/badge/Next.js%20%2F%20React-90%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-Spring Boot ██████████████ 80%
+<img src="https://img.shields.io/badge/MEAN%20Stack-70%25-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-Flutter ███████████████ 85%
+<img src="https://img.shields.io/badge/Spring%20Boot-70%25-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-MongoDB █████████████████ 90%
+<img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React%20Native-70%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
 <div align="center">
 
 ## 🔴 LIVE — GitHub Real-Time Dashboard
