@@ -10,6 +10,14 @@
 
 <br/>
 
+<h2 align="center">⚡ Core Technologies</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;MEAN+Stack+Engineer;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Laravel+%2F+PHP+Backend+Expert;React+Native+Mobile+Developer;Flutter+Cross+Platform+Developer" />
+
+</p>
+
 <!-- Real-time Badges -->
 <!-- ================= BADGES ================= -->
 
