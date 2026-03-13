@@ -3,94 +3,19 @@
 <!-- 3D Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=A.%20NALLA%20PERUMAL&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20275%2B%20Repositories%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
-<div align="center">
-
-<!-- ======================================== -->
-<!-- 🌆 3D Contribution City -->
-<!-- ======================================== -->
-
-## 🌆 3D Contribution City
-
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/profile-night-rainbow.svg" width="100%"/>
-
-<br/>
-
-<!-- ======================================== -->
-<!-- 📦 AUTO REPO COUNTERS -->
-<!-- ======================================== -->
-
-## 📦 Framework Repository Counters
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+laravel&query=$.total_count&label=🔴%20Laravel%20Repositories&style=for-the-badge&color=FF2D20&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+react&query=$.total_count&label=⚛️%20React%20Repositories&style=for-the-badge&color=61DAFB&labelColor=0d1117"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+nextjs&query=$.total_count&label=▲%20Next.js%20Repositories&style=for-the-badge&color=000000&labelColor=ffffff"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+node&query=$.total_count&label=🟢%20Node.js%20Repositories&style=for-the-badge&color=339933&labelColor=0d1117"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=55&lines=🚀+Full+Stack+Developer;⚛️+MERN+Stack+Engineer;🔴+Laravel+%2F+PHP+Backend+Expert;☕+Spring+Boot+Java+Developer;▲+Next.js+%2F+React+Frontend+Engineer;📱+Flutter+Mobile+Developer;🐳+Docker+%2F+DevOps+Enthusiast;🌐+275%2B+Public+Repositories" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ======================================== -->
-<!-- 🧠 LANGUAGE RADAR -->
-<!-- ======================================== -->
-
-## 🧠 Language Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nallaperumal007&theme=github_dark" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nallaperumal007&theme=github_dark" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal007&theme=github_dark" width="32%"/>
-
-<br/><br/>
-
-<!-- ======================================== -->
-<!-- 📊 ANIMATED SKILL BARS -->
-<!-- ======================================== -->
-
-## 📊 Developer Skill Levels
-
-<img src="https://progress-bar.dev/95/?title=JavaScript&width=500"/>
-<img src="https://progress-bar.dev/92/?title=React%20%2F%20Next.js&width=500"/>
-<img src="https://progress-bar.dev/90/?title=Laravel%20%2F%20PHP&width=500"/>
-<img src="https://progress-bar.dev/88/?title=Node.js%20%2F%20Express&width=500"/>
-<img src="https://progress-bar.dev/85/?title=Spring%20Boot%20Java&width=500"/>
-<img src="https://progress-bar.dev/82/?title=Flutter%20Mobile%20Development&width=500"/>
-
-<br/><br/>
-
-<!-- ======================================== -->
-<!-- ⏱ CODING TIME DASHBOARD -->
-<!-- ======================================== -->
-
-## ⏱ Coding Time Dashboard
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nallaperumal007&theme=github_dark"/>
-
-<br/><br/>
-
-<!-- ======================================== -->
-<!-- ⭐ AUTO PROJECT SHOWCASE -->
-<!-- ======================================== -->
-
-## ⭐ Auto Updating Top Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=nallaperumal007&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-
-<br/><br/>
-
-<!-- ======================================== -->
-<!-- 🧰 INTERACTIVE TECH STACK -->
-<!-- ======================================== -->
-
-## 🧰 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,php,spring,java,flutter,dart,mongodb,mysql,redis,docker,aws,git,github,vscode&perline=9"/>
-
-<br/><br/>
-
-</div>
+<!-- Real-time Badges Row 1 -->
+<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=👁️+Profile+Views&color=0f3460&style=for-the-badge&abbreviated=true"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/nallaperumal007?label=👥+Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/nallaperumal007?label=⭐+Total+Stars&style=for-the-badge&color=ffd700&labelColor=0d1117&affiliations=OWNER"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=📦+Public+Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
 
 <br/><br/>
 
