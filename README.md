@@ -1,4 +1,5 @@
 <div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=A.%20NALLA%20PERUMAL&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20275%2B%20Repositories%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 <p align="center">
