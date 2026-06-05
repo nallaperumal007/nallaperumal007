@@ -1,189 +1,80 @@
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=A.%20NALLA%20PERUMAL&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20275%2B%20Repositories%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:0a0a1a,70:0d1b4b,100:00d4ff&height=280&section=header&text=A.%20NALLA%20PERUMAL&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%94%20Architecting%20the%20Web%2C%20One%20Stack%20at%20a%20Time&descAlignY=62&descAlign=50&stroke=00d4ff&strokeWidth=1.5" width="100%"/>
-
-<!-- ANIMATED TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=MERN+%7C+MEAN+%7C+Laravel+%7C+Spring+Boot;Next.js+%7C+Flutter+%7C+React+Native;Cloud+%7C+Docker+%7C+CI%2FCD+%7C+Microservices;275%2B+Repositories+%7C+3%2B+Years+of+Production+Code;Open+Source+Contributor+%7C+Open+to+Work" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;MEAN+Stack+Developer;Laravel+%2F+PHP+Backend+Expert;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Flutter+Mobile+App+Developer;React+Native+Mobile+Developer;Mobile+App+Developer;300%2B+Public+Repositories;Open+Source+Contributor;Always+Learning+New+Technologies;Keep+Learning+%26+Growing;Hard+Worker+%26+Problem+Solver;Building+Scalable+Applications;Passionate+About+Coding" />
+</p>
 
 <br/>
 
-<!-- BADGE ROW 1 -->
-<p>
-  <a href="https://github.com/nallaperumal007"><img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=Profile+Views&color=00d4ff&style=flat-square"/></a>
-  <a href="https://github.com/nallaperumal007?tab=followers"><img src="https://img.shields.io/github/followers/nallaperumal007?label=Followers&style=flat-square&color=00d4ff&labelColor=0d1117"/></a>
-  <a href="https://github.com/nallaperumal007"><img src="https://img.shields.io/github/stars/nallaperumal007?label=Stars+Earned&style=flat-square&color=ffd700&labelColor=0d1117"/></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=Public+Repos&style=flat-square&color=00d4ff&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B+Years-brightgreen?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Status-Open+to+Work-00ff88?style=flat-square&labelColor=0d1117"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nallaperumal007&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=0f3460&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/nallaperumal007?label=%F0%9F%91%A5%20Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/nallaperumal007?label=%E2%AD%90%20Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_repos&label=%F0%9F%93%A6%20Public%20Repos&style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nallaperumal007&query=$.public_gists&label=%F0%9F%93%9D%20Public%20Gists&style=for-the-badge&color=7c3aed&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20Experience-3%2B%20Years-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20Status-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Location-India-ff6b35?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+## 🌆 3D Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark)
+
+<h2 align="center">💻 Skill Progress</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN%20Stack-90%25-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel%20%2F%20PHP-90%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js%20%2F%20React-90%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MEAN%20Stack-70%25-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-70%25-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-70%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<div align="center">
+
+## 🔴 LIVE — GitHub Real-Time Dashboard
+
+<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com/?user=nallaperumal007&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&theme=tokyo-night"/>
+
+</div>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal007&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=12" />
+<img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=12" />
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&rank_icon=github"/>
+<div align="center">
 
-## 🧑‍💻 About Me
+## 📈 Real-Time Contribution Activity Graph
 
-I'm a **Full Stack Developer** based in India with **3+ years** of experience building scalable, production-ready web and mobile applications across diverse industries — from enterprise CRM platforms to hospital management systems.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&bg_color=0d1117&color=00d4ff&line=0f3460&point=00d4ff&area_color=00d4ff&area=true&hide_border=true&custom_title=Nalla+Perumal's+Contribution+Graph+(Live)" width="100%"/>
 
-I work across the **entire stack**: designing clean, responsive UIs; engineering performant REST/GraphQL APIs; architecting multi-tenant backends; and shipping to cloud infrastructure with CI/CD pipelines.
-
-- 🏗️ Currently building enterprise-grade SaaS products
-- 🌱 Diving deeper into **system design** & **cloud-native** patterns
-- 📦 **275+ public repos** — always shipping, always learning
-- 🤝 Open to **freelance**, **collaboration**, and **full-time** roles
-- 📩 **nallaperumal007@gmail.com**
-
-<br clear="right"/>
-
----
-
-## 🚀 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-```
-React.js     ████████████ 90%
-Next.js      ████████████ 90%
-TypeScript   ██████████░░ 80%
-Angular      █████████░░░ 70%
-Tailwind CSS ██████████░░ 85%
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-```
-Laravel/PHP  ████████████ 90%
-Node/Express ██████████░░ 85%
-Spring Boot  █████████░░░ 70%
-GraphQL      ████████░░░░ 65%
-Python       ███████░░░░░ 60%
-```
-
-</td>
-<td valign="top" width="33%">
-
-**Mobile & Infra**
-```
-Flutter      █████████░░░ 70%
-React Native █████████░░░ 70%
-Docker       ████████░░░░ 65%
-AWS          ███████░░░░░ 60%
-PostgreSQL   ██████████░░ 80%
-```
-
-</td>
-</tr>
-</table>
-
-### Full Toolbox
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,java,python,graphql&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,mongodb,mysql,postgres,redis,firebase,docker&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,github,githubactions,linux,nginx,vite,angular,bootstrap&theme=dark"/>
-</p>
-
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Enterprise CRM Platform
-> *Turning complex sales ops into one clean dashboard*
-
-Built a multi-tenant CRM for sales-driven teams that consolidates pipeline visibility, outreach automation, and reporting — replacing fragmented spreadsheet workflows.
-
-**What makes it stand out:**
-- 🔐 Multi-tenant RBAC with organization-level isolation
-- 📊 Real-time pipeline analytics with drill-down reporting  
-- 🔔 Automated email/SMS drip campaigns
-- 📱 Installable PWA with offline support
-
-`Laravel` `React` `MySQL` `Redis` `WebSockets`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Management System
-> *Enterprise HMS for high-volume clinical operations*
-
-End-to-end HMS for hospitals managing hundreds of daily patient interactions, with tight integration between clinical, pharmacy, and billing departments.
-
-**What makes it stand out:**
-- 📋 EMR with full audit trail and version history
-- 🗓️ Appointment engine with real-time conflict detection
-- 💊 Pharmacy inventory with low-stock reorder alerts
-- 💳 Automated billing with insurance claim workflows
-
-`Spring Boot` `Angular` `PostgreSQL` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ Task Tracker Pro
-> *Where teams actually get things done*
-
-A real-time team productivity platform combining project management, time tracking, and team chat — designed to cut meeting overhead and surface what actually matters.
-
-**What makes it stand out:**
-- 🗃️ Kanban + Sprint board with drag-and-drop
-- ⏱️ Per-task time tracking with burndown charts
-- 💬 Real-time in-app chat via WebSocket rooms
-- 📈 Sprint velocity analytics and workload heatmaps
-
-`MongoDB` `Node.js` `React` `Socket.IO` `Redis`
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ GSAP Animated Experience
-> *Web design as performance art*
-
-A showcase site demonstrating cinematic animation, 3D rendering, and sub-100ms interaction response — hitting 95+ on all Lighthouse metrics without sacrificing visual ambition.
-
-**What makes it stand out:**
-- 🎬 Scroll-triggered timeline animations (GSAP ScrollTrigger)
-- 🌐 3D WebGL scenes with interactive Three.js elements
-- ⚡ 95+ Lighthouse score across all four categories
-- 🖱️ Custom cursor with physics-based follow effect
-
-`Next.js` `GSAP` `Three.js` `TypeScript` `Framer Motion`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+</div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&bg_color=0d1117&color=00d4ff&line=0f3460&point=00d4ff&area_color=00d4ff&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
-
-<br/>
+## 📊 Profile Summary — Live Analytics Cards
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark" width="100%"/>
 
@@ -194,101 +85,193 @@ A showcase site demonstrating cinematic animation, 3D rendering, and sub-100ms i
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nallaperumal007&theme=github_dark"/>
 <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal007&theme=github_dark&utcOffset=5.5"/>
 
+<h3 align="center">🔥 Most Used Frameworks</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN%20Stack-Expert-00C853?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel"/>
+<img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/MEAN%20Stack-Intermediate-DD0031?style=for-the-badge&logo=angular"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Intermediate-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter"/>
+</p>
+
 </div>
 
 ---
-
-## 📦 Repositories by Technology
 
 <div align="center">
 
-| Tech | Count | Browse |
-|:--|:--:|:--:|
-| 🔴 Laravel / PHP | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+laravel+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=FF2D20&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=laravel) |
-| ⚛️ React.js | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+react+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=61DAFB&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=react) |
-| ▲ Next.js | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+next+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=ffffff&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=next) |
-| 🟢 Node.js | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+node+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=339933&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=node) |
-| ☕ Spring Boot | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+spring+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=6DB33F&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=spring) |
-| 📱 Flutter | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+flutter+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=02569B&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=flutter) |
-| 🅰️ Angular | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+angular+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=DD0031&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=angular) |
-| 🏗️ TypeScript | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:typescript&query=$.total_count&label=&style=flat-square&color=007ACC&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&l=TypeScript) |
-| 🐳 Docker | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+docker+in:name,description,topics&query=$.total_count&label=&style=flat-square&color=2496ED&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&q=docker) |
-| 🐘 PHP | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:php&query=$.total_count&label=&style=flat-square&color=777BB4&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&l=PHP) |
-| ☕ Java | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:java&query=$.total_count&label=&style=flat-square&color=ED8B00&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&l=Java) |
-| 🎯 JavaScript | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:javascript&query=$.total_count&label=&style=flat-square&color=F7DF1E&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&l=JavaScript) |
-| 🎯 Dart | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:dart&query=$.total_count&label=&style=flat-square&color=0175C2&labelColor=0d1117) | [→](https://github.com/nallaperumal007?tab=repositories&l=Dart) |
+## 📦 Live Framework & Technology Repository Counter
+
+| 🔧 Technology | 📊 Live Repo Count | 🔗 Browse |
+|:---:|:---:|:---:|
+| 🔴 Laravel / PHP | ![Laravel](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+laravel+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=FF2D20&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=laravel) |
+| ⚛️ React.js | ![React](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+react+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=61DAFB&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=react) |
+| ▲ Next.js | ![Next](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+next+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=ffffff&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=next) |
+| 🟢 Node.js / Express | ![Node](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+node+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=339933&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=node) |
+| ☕ Spring Boot | ![Spring](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+spring+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=6DB33F&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=spring) |
+| 📱 Flutter | ![Flutter](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+flutter+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=02569B&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=flutter) |
+| 🅰️ Angular | ![Angular](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+angular+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=DD0031&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=angular) |
+| 🗄️ MongoDB | ![Mongo](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+mongodb+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=47A248&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=mongodb) |
+| 🐳 Docker | ![Docker](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+docker+in:name,description,topics&query=$.total_count&label=Repos&style=flat-square&color=2496ED&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&q=docker) |
+| 🏗️ TypeScript | ![TS](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:typescript&query=$.total_count&label=Repos&style=flat-square&color=007ACC&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&l=TypeScript) |
+| 🐘 PHP Total | ![PHP](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:php&query=$.total_count&label=Repos&style=flat-square&color=777BB4&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&l=PHP) |
+| ☕ Java Total | ![Java](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:java&query=$.total_count&label=Repos&style=flat-square&color=ED8B00&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&l=Java) |
+| 🎯 JavaScript Total | ![JS](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:javascript&query=$.total_count&label=Repos&style=flat-square&color=F7DF1E&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&l=JavaScript) |
+| 🎯 Dart / Flutter | ![Dart](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/repositories?q=user:nallaperumal007+language:dart&query=$.total_count&label=Repos&style=flat-square&color=0175C2&labelColor=0d1117) | [View →](https://github.com/nallaperumal007?tab=repositories&l=Dart) |
 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nallaperumal007/nallaperumal007/output/github-contribution-grid-snake.svg">
-</picture>
+
+## ⚡ Live Productivity Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nallaperumal007&theme=github_dark&utcOffset=5.5" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nallaperumal007&theme=github_dark" width="48%"/>
+
 </div>
 
 ---
 
-## 💡 Engineering Philosophy
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<div align="center">
+
+## 🛠️ Complete Tech Stack
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap,sass,redux,vite&theme=dark&perline=6"/>
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,spring,java,python,graphql&theme=dark&perline=8"/>
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark&perline=3"/>
+
+### Database & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark&perline=5"/>
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,github,githubactions,linux,nginx&theme=dark&perline=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Featured Projects
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-**🏗️ Architecture First**
-Design for scale from day one. A system that can't be extended was never truly finished.
+### 🏢 Enterprise CRM Platform
+> Full-featured Customer Relationship Management system
 
-</td>
-<td align="center" width="25%">
+- 👥 Multi-tenant architecture
+- 📊 Real-time sales pipeline & analytics
+- 🔔 Automated email/SMS notifications
+- 📱 Mobile-responsive PWA
 
-**📖 Readable > Clever**
-Code is read far more than it is written. Clarity is a feature, not a luxury.
-
-</td>
-<td align="center" width="25%">
-
-**🔄 Always Iterating**
-Every version is better than the last. Shipping is a habit, not a milestone.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-**🤝 Community Matters**
-Open source made me the developer I am. Contributing back is the minimum.
+### 🏥 Hospital Management System
+> Scalable HMS with enterprise-grade features
+
+- 📋 Patient EMR & medical records
+- 🗓️ Smart appointment scheduling
+- 💊 Pharmacy & inventory management
+- 💰 Integrated billing & insurance
+
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Task Tracker Pro
+> Real-time team collaboration platform
+
+- 🗃️ Kanban + Sprint board views
+- ⏱️ Time tracking & productivity stats
+- 💬 In-app team messaging
+- 📈 Burndown charts & analytics
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SocketIO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ GSAP Animated Website
+> Award-worthy animated web experience
+
+- 🎬 Scroll-triggered cinematic animations
+- 🌐 3D WebGL elements with Three.js
+- ⚡ 95+ Lighthouse performance score
+- 🎨 Custom cursor & micro-interactions
+
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*  
-> — **Martin Fowler**
-
 ---
-
-## 📬 Let's Build Something Together
 
 <div align="center">
 
-I'm always open to interesting projects, collaborations, and opportunities.
+## 💬 Developer Philosophy
 
-<br/>
+> *"Any fool can write code that a computer can understand.*
+> *Good programmers write code that humans can understand."*
+> — Martin Fowler
 
-[![Gmail](https://img.shields.io/badge/Gmail-nallaperumal007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nallaperumal007@gmail.com)
+---
+
+## 📬 Connect & Collaborate
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nallaperumal007@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nallaperumal007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nallaperumal007)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit+Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nallaperumal007.github.io)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://nallaperumal007.github.io)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nallaperumal007)
 
-<br/><br/>
+---
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d1117&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d4ff&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="https://img.shields.io/badge/⭐_Star_this_profile_if_it_inspired_you!-00d4ff?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
