@@ -1,9 +1,9 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=A.%20NALLA%20PERUMAL&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20275%2B%20Repositories%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,60:16213e,100:1a1a2e&height=220&section=header&text=A.%20NALLA%20PERUMAL&fontSize=55&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20400%2B%20Repositories%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;MEAN+Stack+Developer;Laravel+%2F+PHP+Backend+Expert;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Flutter+Mobile+App+Developer;React+Native+Mobile+Developer;Mobile+App+Developer;300%2B+Public+Repositories;Open+Source+Contributor;Always+Learning+New+Technologies;Keep+Learning+%26+Growing;Hard+Worker+%26+Problem+Solver;Building+Scalable+Applications;Passionate+About+Coding" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Engineer;MEAN+Stack+Developer;Laravel+%2F+PHP+Backend+Expert;Spring+Boot+Java+Developer;Next.js+%2F+React+Frontend+Engineer;Flutter+Mobile+App+Developer;React+Native+Mobile+Developer;Mobile+App+Developer;400%2B+Public+Repositories;Open+Source+Contributor;Always+Learning+New+Technologies;Keep+Learning+%26+Growing;Hard+Worker+%26+Problem+Solver;Building+Scalable+Applications;Passionate+About+Coding" />
 </p>
 
 <br/>
