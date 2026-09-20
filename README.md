@@ -28,7 +28,7 @@
 
 <h2 align="center">💻 Skill Progress</h2>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/MERN%20Stack-90%25-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel%20%2F%20PHP-90%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js%20%2F%20React-90%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -55,7 +55,7 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal007&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=12" />
