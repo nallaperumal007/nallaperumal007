@@ -42,9 +42,7 @@
 
 <h2 align="center">🔴 LIVE — GitHub Real-Time Dashboard</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+
 
 <br/>
 
