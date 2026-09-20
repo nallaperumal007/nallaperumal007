@@ -24,38 +24,34 @@
 
 ## 🌆 3D Contribution Graph
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nallaperumal007&theme=github_dark" />
+</p>
 
 <h2 align="center">💻 Skill Progress</h2>
 
-<!-- <p align="center">
-<img src="https://img.shields.io/badge/MERN%20Stack-90%25-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel%20%2F%20PHP-90%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js%20%2F%20React-90%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MEAN%20Stack-70%25-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-70%25-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-70%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-90%25-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel%20%2F%20PHP-90%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js%20%2F%20React-90%25-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MEAN%20Stack-70%25-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-70%25-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-70%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-<div align="center">
-
-## 🔴 LIVE — GitHub Real-Time Dashboard
-
-<img src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=tokyonight"/>
-
-<img src="https://streak-stats.demolab.com/?user=nallaperumal007&theme=tokyonight"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&theme=tokyo-night"/>
-
-</div>
+<h2 align="center">🔴 LIVE — GitHub Real-Time Dashboard</h2>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nallaperumal007&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-<br/> -->
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nallaperumal007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nallaperumal007&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+</div>
 
 <div align="center">
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallaperumal007&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=12" />
